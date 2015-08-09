@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 from vgmdb_wrapper.utils import *
 
 class Link( JsonToClass ):
